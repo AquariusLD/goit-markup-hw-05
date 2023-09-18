@@ -642,6 +642,7 @@ footer {
 /*--Subscribe--*/
 .paragraph-footer {
   margin-bottom: 16px;
+  margin-left: 80px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
@@ -653,7 +654,6 @@ footer {
 .footer-form {
   display: flex;
   gap 24px;
-
 }
 
 
@@ -666,13 +666,11 @@ footer {
   line-height: 1.5;
   letter-spacing: 0.04em;
   padding-left: 16px;
-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
-border-radius: 4px;
-color: #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+  border-radius: 4px;
+  color: #ffffff;
   margin-right: 24px;
-
-
-
+  margin-left: 80px;
 }
 
 .footer-input::placeholder {
