@@ -782,11 +782,6 @@ footer {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.close-btn-icon:hover,
-.close-btn-icon:focus {
-  fill: #e7e9fc;
-}
-
 /* MODAL FORM */
 
 .reviewe-form-description {
@@ -801,7 +796,7 @@ footer {
 }
 
 .review-form-field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .review-form-field-label {
