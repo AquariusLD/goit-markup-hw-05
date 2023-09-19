@@ -795,8 +795,8 @@ footer {
   margin-bottom: 16px;
 }
 
-.review-form-field-wrapper {
-  margin-bottom: 8px;
+.review-form-field-wrapper .textarea {
+  margin-bottom: 16px;
 }
 
 .review-form-field-label {
@@ -915,6 +915,8 @@ footer {
   + .review-form-checkbox-label
   > .review-form-own-checkbox {
   background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
 }
 
 .review-form-checkbox:focus
