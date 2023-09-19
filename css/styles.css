@@ -693,9 +693,11 @@ footer {
   border-radius: 4px;
 }
 
-.footer-button:hover,
-.footer-button:focus {
+.footer-button:hover {
   fill: #ffffff;
+}
+
+.footer-button:focus {
   fill: #ffffff;
 }
 
@@ -794,6 +796,10 @@ footer {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
+}
+
+.review-form-field-wrapper {
+  margin-bottom: 8px;
 }
 
 .textarea {
